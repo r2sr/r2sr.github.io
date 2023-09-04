@@ -2,13 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Rigorous and Reproducible  Scientific Reasoning (R2SR)# the website title (if blank, full name will be used instead)
-first_name: xyz
+title: Rigorous and Reproducible  Scientific Reasoning (R2SR)
 middle_name: a
 last_name: abc
 email: srirams@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  R2SR Workshop homepage.
+  R2SR Workshop Homepage.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -126,11 +125,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-
-blog_name: blogposts # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Blog for the workshop
-permalink: /blog/:year/:title/
+# Removed blogs 
 
 # Pagination
 pagination:
