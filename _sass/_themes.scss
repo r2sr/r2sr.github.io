@@ -47,6 +47,16 @@
   }
 }
 
+.header-background .img {
+    background-image: url("../img/r2sr-logo.jpg");
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position: center bottom;
+    height: 13em;
+    margin-bottom:0em;
+    margin-top: 0em;  
+}
+
 html[data-theme='dark'] {
   --global-bg-color: #{$grey-color-dark};
   --global-code-bg-color: #{$code-bg-color-dark};
