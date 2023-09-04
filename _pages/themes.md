@@ -7,7 +7,14 @@ nav: true
 nav_order: 2
 ---
 
-# Motivation
+## Contents
+  - [Motivation](#motivation)
+  - [Workshop Themes](#workshop-themes)
+  - [Participants](#participants)
+  - [Workshop Format](#workshop-format)
+  - [Code of Conduct](#code-of-conduct)
+  
+## Motivation
 
 Modern science relies intimately on the use of automation in the form of
 sophisticated instruments and sensors for data-acquisition, sophisticated models
@@ -72,6 +79,6 @@ themes mentioned above.
 # Code of Conduct
 
 Although the Association for Computer Machinery (ACM), an important organization of computer science researchers, professionals and educators is not involved in this workshop, we will subscribe to its
-code of conduct.  We refer all participants to the full [code of conduct] (https://www.acm.org/about-acm/policy-against-harassment).
+code of conduct.  We refer all participants to the full [code of conduct](https://www.acm.org/about-acm/policy-against-harassment).
 
 __TODO__ More details here.
