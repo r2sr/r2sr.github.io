@@ -2,24 +2,46 @@
 layout: page
 permalink: /themes/
 title: Themes
-description: Workshop Themes
+description: The motivation for this workshop and its main themes. 
 nav: true
 nav_order: 2
 ---
 
 # Motivation
-Modern science relies intimately on the use of automation in the form of sophisticated instruments and sensors for data-acquisition, sophisticated models of natural processes in
-physics, chemistry and biology, advanced statistical inference algorithms with the heavy use of software (both off-the-shelf and custom built) to automate many of the critical steps in scientific workflows.  At the same time, we live in an era where the need for rigorous science is paramount. Scientific breakthroughs in biology bring about vaccines, cures for diseases and revolutions in agriculture; climate science breakthroughs provide us better short-term and long-term weather predictions while under-standing the future challenges arising from a warming climate; breakthroughs in material science impact numerous areas including the future of energy storage and faster computation. These breakthroughs also drive billions of dollars of investment from governments and private industry.
 
-Recently the popular press has reported numerous instances of important and high-profile scientific
-findings being retracted (see [retraction watch](https://retractionwatch.com/)).
-Leaving aside actual cases of scientific misconduct, the key reasons for these retractions include unreliable data, incorrect data processing (including inappropriate omission of data) and errors in the analysis. Also note that these retractions often happen many years after the publication of the initial article.
+Modern science relies intimately on the use of automation in the form of
+sophisticated instruments and sensors for data-acquisition, sophisticated models
+of natural processes in physics, chemistry and biology, advanced statistical
+inference algorithms with the heavy use of software (both off-the-shelf and
+custom built) to automate many of the critical steps in scientific workflows. At
+the same time, we live in an era where the need for rigorous science is
+paramount. Scientific breakthroughs enable technological advances such as
+vaccines, cures for diseases, revolutions in agriculture, short-term and
+long-term weather predictions, energy storage and faster computers. These
+breakthroughs also drive billions of dollars of investment from governments and
+private industry.
 
-As scientific experiments now increasingly rely on automation and large volumes of software, the evaluation of scientific discoveries consists of peer review by other scientists who review a manuscript that is often missing many of the details that lead from analysis to conclusions. Furthermore, peer reviewers often lack access to the data or the software used to process it or
-are not provided the necessary time and resources to properly scrutinize the data and software accompanying the article under submission.
-Errors and omissions are often missed during peer review, and thus challenge the validity of the final conclusions.  Reproducibility is a related issue that concerns external replication of the results by an independent third party. Although reproducibility and correctness are related, we note that reproducible research may not necessarily be correct but lends itself to judgement by independent third parties
+Recently the popular press has reported numerous instances of important and
+high-profile scientific findings being retracted (see [retraction
+watch](https://retractionwatch.com/)). Setting aside  cases of fraud or scientific
+misconduct, the key reasons for these retractions include unreliable data,
+incorrect data processing (including inappropriate omission of data) and errors
+in the analysis. Also these retractions often happen many years after
+the publication of the initial article.
 
-#Workshop Themes
+However, the evaluation of scientific discoveries consists of peer review of a
+manuscript that is often missing many of the details such as the raw data and
+the software for processing, analysis and visualization of this data.
+Furthermore, peer reviewers often lack the necessary time and resources to
+properly scrutinize these artifact even if they are available. Errors and
+omissions are often overlooked during peer review, and thus challenge the
+validity of the final conclusions. Reproducibility is an important related issue that
+concerns external replication of the results by an independent third party.
+Although reproducibility and correctness are related, we note that reproducible
+research may not necessarily be correct but lends itself to judgement by
+independent third parties
+
+# Workshop Themes
 
 The main theme of this workshop is to bring together scientists in a few chosen scientific areas
 (climate science, biology, quantum computing and material science) with experts in chosen
