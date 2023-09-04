@@ -100,4 +100,15 @@ html[data-theme='dark'] {
   .repo-img-dark {
     display: block;
   }
+
+
+  .header-background .img {
+      background-image: url("../img/r2sr-logo-dark.png");
+      background-repeat: no-repeat;
+      background-size: 400px;
+      background-position: center bottom;
+      height: 13em;
+      margin-bottom:0em;
+      margin-top: 0em;  
+  }
 }
