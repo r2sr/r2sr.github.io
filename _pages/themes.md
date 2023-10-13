@@ -79,5 +79,3 @@ themes mentioned above.
 
 Although the Association for Computer Machinery (ACM), an important organization of computer science researchers, professionals and educators is not involved in this workshop, we will subscribe to its
 code of conduct.  We refer all participants to the full [code of conduct](https://www.acm.org/about-acm/policy-against-harassment).
-
-__TODO__ More details here.
