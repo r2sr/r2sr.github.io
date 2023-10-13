@@ -50,8 +50,14 @@ The workshop will be held in-person on campus at the University of Colorado Boul
 
 ### Hotel
 
-We have a blocked a limited number of rooms at a special rate for the nights. 
-Information coming soon.
+We have a blocked a limited number of rooms at a special rate for the nights at the Hilton Garden Inn/Embassy Suites near CU Boulder campus. Guests can book through the [link](https://www.hilton.com/en/attend-my-event/cu-dept-of-computer-science/) or they can call the hotel directly (phone numbers obtained by clicking the link). Please email Sriram directly if you  have any questions or want any adjustments. 
+
+The “cut-off date” for accepting reservations into this room block is Friday, October 27, 2023. Reservations requests received
+after 5:00 p.m. local time at the Hotel on the cut-off date will be accepted at the Hotel’s prevailing rate, based on room type
+availability. Failure to reserve rooms before the cut-off date will not affect the enforceability of the attrition or cancellation
+clauses.  If necessary, rooms must be canceled with a cancellation number obtained by 6 pm two days prior to arrival to avoid a
+cancellation fee (one night’s room rate + tax). If the reservation is not canceled and the guest fails to arrive as scheduled, a no-show fee will be applied (one night’s room rate plus tax). 
+
 
 #### Travel
 
