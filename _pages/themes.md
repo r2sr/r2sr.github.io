@@ -17,8 +17,8 @@ nav_order: 2
 ## Motivation
 
 Modern science relies intimately on the use of automation in the form of
-sophisticated instruments and sensors for data-acquisition, sophisticated models
-of natural processes in physics, chemistry and biology, advanced statistical
+sophisticated instruments for data-acquisition; sophisticated models
+of natural processes in physics, chemistry and biology; and advanced statistical
 inference algorithms with the heavy use of software (both off-the-shelf and
 custom built) to automate many of the critical steps in scientific workflows. At
 the same time, we live in an era where the need for rigorous science is
@@ -30,8 +30,7 @@ private industry.
 
 Recently the popular press has reported numerous instances of important and
 high-profile scientific findings being retracted (see [retraction
-watch](https://retractionwatch.com/)). Setting aside  cases of fraud or scientific
-misconduct, the key reasons for these retractions include unreliable data,
+watch](https://retractionwatch.com/)). Setting aside  cases of fraud or scientific misconduct, the key reasons for these retractions include unreliable data,
 incorrect data processing (including inappropriate omission of data) and errors
 in the analysis. Also these retractions often happen many years after
 the publication of the initial article.
@@ -52,7 +51,7 @@ independent third parties
 
 The main theme of this workshop is to bring together scientists in a few chosen scientific areas
 (climate science, biology, quantum computing and material science) with experts in chosen
-areas of computer science including _data science_ and _formal methods_. The latter area details
+areas of computer science including _data science_, _mathematics_, _statistics_ and _formal methods_. The latter area details
 specifically  with the problem of specifying and validating the correctness complex
 hardware, software, and cyber-physical systems.
 
