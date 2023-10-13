@@ -37,7 +37,7 @@ rigorous specification, verification and validation can be used to promote rigor
 and reproducibility in various domains of science, especially where the “game
 changing” advances of the next two decades are expected. 
 
-More information about the workshop themes: [https://r2sr.github.io/themes/]
+Click [here](https://r2sr.github.io/themes/) for more information about the workshop themes.
 
 ## Logistics
 
