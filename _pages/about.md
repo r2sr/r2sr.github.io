@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 **Announcements**
- - Sep 8, 2023: The R2SR homepage is live.
+
 
 ## About
 
@@ -34,9 +34,21 @@ and validation can be used to promote rigor and reproducibility in various domai
 
 ## Logistics
 
-The workshop will be held in-person on campus at the University of Colorado Boulder
-on October 23-24th 2023 (tentative). It will feature a few presentations from various
-participants followed by discussions.  More logistical details will be posted here.
+The workshop will be held in-person on campus at the University of Colorado Boulder on November 13-14, 2023. It will feature a few presentations from various participants followed by discussions.
+  - November 13th: the workshop will go all day from 9 AM - 5 PM with breaks.
+  - November 14th: the workshop is planned to go on until 12 noon and break after lunch. Participants should be able to travel back on the same afternoon.
+  
+
+
+
+### Hotel
+
+We have a blocked a limited number of rooms at a special rate for the nights. 
+Information coming soon.
+
+#### Travel
+
+The workshop will be held on the University of Colorado Boulder campus. Denver, CO is the closest city and the closest international airport is the Denver International Airport (code DIA). There are many options for getting from Denver to Boulder (approximately 40 miles). We will have more information on travel options here.
 
 ## Organizers
 
