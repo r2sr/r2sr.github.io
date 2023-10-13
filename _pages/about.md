@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 
 **Announcements**
 
- - Workshop will be happening on Nov 13, 2023 (full day) and Nov 14, 2023 (half day).
+ - Workshop will be happening in Boulder, CO on Nov 13, 2023 (Monday, full day) and Nov 14, 2023 (Tuesday, half day).
 
 ## About
 
