@@ -27,17 +27,18 @@ social: false  # includes social icons at the bottom of the page
 ## About
 
 R2SR 2023 is an invitation-only workshop sponsored by the US National Science
-Foundation. The workshop will bring together _scientists_ at the forefront of
-various disciplines with a primary focus on biological sciences, climate science
-and quantum physics with _computer scientists_, _data scientists_,
-_mathematicians_, _statisticians_ and _logicians_ who work on the problem of
-reasoning about the correctness, particularly for software, hardware and
-cyber-physical systems. The main goal is to understand whether the process of
-rigorous specification, verification and validation can be used to promote rigor
-and reproducibility in various domains of science, especially where the “game
-changing” advances of the next two decades are expected. 
+Foundation. The workshop will bring together _scientists_ and _mathematicians_
+at the forefront of various disciplines with a primary focus on biological
+sciences, climate science and quantum physics with _computer scientists_, _data
+scientists_, _mathematicians_, _statisticians_ and _logicians_ who work on the
+problem of reasoning about the correctness, particularly for software, hardware
+and cyber-physical systems. The main goal is to understand whether the process
+of rigorous specification and argumentation using proofs can  promote
+rigor and reproducibility in various domains of science, especially where the
+“game changing” advances of the next two decades are expected.
 
-Click [here](https://r2sr.github.io/themes/) for more information about the workshop themes.
+Click [here](https://r2sr.github.io/themes/) for more information about the
+workshop themes.
 
 ## Logistics
 

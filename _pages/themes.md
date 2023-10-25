@@ -17,43 +17,42 @@ nav_order: 2
 ## Motivation
 
 Modern science relies intimately on the use of automation in the form of
-sophisticated instruments for data-acquisition; sophisticated models
-of natural processes in physics, chemistry and biology; and advanced statistical
-inference algorithms with the heavy use of software (both off-the-shelf and
-custom built) to automate many of the critical steps in scientific workflows. At
-the same time, we live in an era where the need for rigorous science is
-paramount. Scientific breakthroughs enable technological advances such as
+sophisticated instruments for data-acquisition; sophisticated models of natural
+processes in physics, chemistry and biology; and advanced statistical inference
+algorithms with the heavy use of software (both off-the-shelf and custom built)
+to automate many of the critical steps in scientific workflows. At the same
+time, we live in an era where the need for rigorous science is paramount.
+Breakthroughs in science and mathematics enable technological advances such as
 vaccines, cures for diseases, revolutions in agriculture, short-term and
 long-term weather predictions, energy storage and faster computers. These
 breakthroughs also drive billions of dollars of investment from governments and
 private industry.
 
-Recently the popular press has reported numerous instances of important and
+Recently, the popular press has reported numerous instances of important and
 high-profile scientific findings being retracted (see [retraction
 watch](https://retractionwatch.com/)). Setting aside  cases of fraud or scientific misconduct, the key reasons for these retractions include unreliable data,
 incorrect data processing (including inappropriate omission of data) and errors
 in the analysis. Also these retractions often happen many years after
 the publication of the initial article.
 
-However, the evaluation of scientific discoveries consists of peer review of a
+However, the evaluation of new discoveries in science and mathematics 
+consists of peer review of a
 manuscript that is often missing many of the details such as the raw data and
 the software for processing, analysis and visualization of this data.
 Furthermore, peer reviewers often lack the necessary time and resources to
-properly scrutinize these artifact even if they are available. Errors and
+properly scrutinize these artifacts even if they are available. Errors and
 omissions are often overlooked during peer review, and thus challenge the
 validity of the final conclusions. Reproducibility is an important related issue that
 concerns external replication of the results by an independent third party.
 Although reproducibility and correctness are related, we note that reproducible
 research may not necessarily be correct but lends itself to judgement by
-independent third parties
+independent third parties.
 
 # Workshop Themes
 
-The main theme of this workshop is to bring together scientists in a few chosen scientific areas
+The main theme of this workshop is to bring together researchers from a few chosen areas of science and mathematics
 (climate science, biology, quantum computing and material science) with experts in chosen
-areas of computer science including _data science_, _mathematics_, _statistics_ and _formal methods_. The latter area details
-specifically  with the problem of specifying and validating the correctness complex
-hardware, software, and cyber-physical systems.
+areas of mathematics and computer science including _data science_,  _statistics_ and _formal methods_.
 
 The key objectives are to jointly explore ideas and establish collaborations around  the following themes:
   a) Rendering the process of scientific reasoning more rigorous by enabling others to check the key steps in the reasoning process including data acquisition, data processing, analysis and visualization that lead  to the scientific conclusions.   
@@ -62,7 +61,7 @@ The key objectives are to jointly explore ideas and establish collaborations aro
 # Participants
 
 Participation in this workshop is by _invitation only_. The workshop will involve experts and stakeholders from various communities including
-  - Scientists from carefully chosen areas who are central to this enterprise.
+  - Scientists and mathematicians from carefully chosen areas who are central to this enterprise.
   - Computer scientists, mathematicians, and logicians who specialize in theorem proving in general or automated reasoning as applied to software, hardware and cyber-physical systems.
   - Data scientists and statisticians who focus on statistical reasoning and its applications to
   science.
