@@ -27,15 +27,16 @@ social: false  # includes social icons at the bottom of the page
 ## About
 
 R2SR 2023 is an invitation-only workshop sponsored by the US National Science
-Foundation. The workshop will bring together _scientists_ and _mathematicians_
-at the forefront of various disciplines with a primary focus on biological
-sciences, climate science and quantum physics with _computer scientists_, _data
-scientists_, _mathematicians_, _statisticians_ and _logicians_ who work on the
-problem of reasoning about the correctness, particularly for software, hardware
-and cyber-physical systems. The main goal is to understand whether the process
-of rigorous specification and argumentation using proofs can  promote
-rigor and reproducibility in various domains of science, especially where the
-“game changing” advances of the next two decades are expected.
+Foundation. The workshop will bring together researchers at the forefront of
+various disciplines with a primary focus on biological sciences, climate
+science, mathematics and quantum physics with computer scientists, data
+scientists, mathematicians, statisticians and logicians who work on the problem
+of reasoning about the correctness and reproducibility. The main goal is to
+understand whether the process of rigorous specification and argumentation using
+proofs can promote rigor and reproducibility in various domains of science,
+especially where the “game changing” advances of the next two decades are
+expected.
+
 
 Click [here](https://r2sr.github.io/themes/) for more information about the
 workshop themes.
@@ -43,7 +44,7 @@ workshop themes.
 ## Logistics
 
 The workshop will be held in-person on campus at the University of Colorado Boulder on November 13-14, 2023. It will feature a few presentations from various participants followed by discussions.
-  - November 13th: the workshop will go all day from 9 AM - 5 PM with breaks.
+  - November 13th: the workshop will go all day from 9:30 AM - 5:30 PM with breaks.
   - November 14th: the workshop is planned to go on until 12 noon and break after lunch. Participants should be able to travel back on the same afternoon.
   
 
