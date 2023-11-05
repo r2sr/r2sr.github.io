@@ -46,19 +46,19 @@ workshop themes.
 The workshop will be held in-person on campus at the University of Colorado Boulder on November 13-14, 2023. It will feature a few presentations from various participants followed by discussions.
   - November 13th: the workshop will go all day from 9:30 AM - 5:30 PM with breaks.
   - November 14th: the workshop is planned to go on until 12 noon and break after lunch. Participants should be able to travel back on the same afternoon.
-  
+
 
 
 
 ### Hotel
 
-We have a blocked a limited number of rooms at a special rate for the nights at the Hilton Garden Inn/Embassy Suites near CU Boulder campus. Guests can book through the [link](https://www.hilton.com/en/attend-my-event/cu-dept-of-computer-science/) or they can call the hotel directly (phone numbers obtained by clicking the link). Please email Sriram directly if you  have any questions or want any adjustments. 
+We have a blocked a limited number of rooms at a special rate for the nights at the Hilton Garden Inn/Embassy Suites near CU Boulder campus. Guests can book through the [link](https://www.hilton.com/en/attend-my-event/cu-dept-of-computer-science/) or they can call the hotel directly (phone numbers obtained by clicking the link). Please email Sriram directly if you  have any questions or want any adjustments.
 
-The “cut-off date” for accepting reservations into this room block is Friday, October 27, 2023. Reservations requests received
+The “cut-off date” for accepting reservations into this room block is Friday, November 3, 2023. Reservations requests received
 after 5:00 p.m. local time at the Hotel on the cut-off date will be accepted at the Hotel’s prevailing rate, based on room type
 availability. Failure to reserve rooms before the cut-off date will not affect the enforceability of the attrition or cancellation
 clauses.  If necessary, rooms must be canceled with a cancellation number obtained by 6 pm two days prior to arrival to avoid a
-cancellation fee (one night’s room rate + tax). If the reservation is not canceled and the guest fails to arrive as scheduled, a no-show fee will be applied (one night’s room rate plus tax). 
+cancellation fee (one night’s room rate + tax). If the reservation is not canceled and the guest fails to arrive as scheduled, a no-show fee will be applied (one night’s room rate plus tax).
 
 
 #### Travel
