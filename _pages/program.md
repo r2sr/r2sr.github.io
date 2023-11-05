@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Workshop Program
 
-Venue information : [see here](local/#workshop-venue).
+Venue information : [see here](https://r2sr.github.io/local/#workshop-venue).
 
 **Monday, November 13, 2023**
 
@@ -76,4 +76,4 @@ We will have a detailed set of discussion topics to be discussed. For convenienc
 
 ## Discussion Organization
 
-We will describe how the discussion will be organized to allow all participants to rotate through all the discussion themes over the workshop duration. We will also designate leaders and have volunteers who will take notes during these discussions. 
+We will describe how the discussion will be organized to allow all participants to rotate through all the discussion themes over the workshop duration. We will also designate leaders and have volunteers who will take notes during these discussions.
