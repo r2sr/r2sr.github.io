@@ -48,7 +48,33 @@ opportunities for applying formal methods and related techniques.
 
 ### 10:30 AM - Natarajan Shankar (SRI)
 
- > Title/Abstract: TBA. 
+>  Title: The Meaning of Computation
+>
+> Abstract: Science relies on computation on a number of counts.  Computation is
+> used to collect and analyze large volumes of scientific data.  It is also used
+> to run simulations of scientific laws, models, and theories.  Finally,
+> computation is used as a modelling framework for scientific concepts and
+> theories at different levels of abstraction.  Computational models are used both
+> for analysis and synthesis.  The computation revolution in science has enabled
+> us to deal with complex models and calculations that are well beyond the scope
+> of human intuition.  This leaves a big gap between the long chains of
+> calculation and their intuitive scientific interpretation, between the large
+> volume of data and claims for the provenance and properties of the data, and
+> between differing computational implementations of the same scientific content.
+> We look at a few approaches toward closing some of these gaps including formal
+> mathematical modeling using proof assistants, code generation from high-level
+> models, data definition languages for rigorously describing data formats, ontic
+> types to labeling data (at rest or in flight) with metadata, witness-producing
+> computations, and the evidential tool bus for defining evidence-curating,
+> reproducible workflows.
+>
+> Bio: Dr. Natarajan Shankar is a Distinguished Senior Scientist and SRI Fellow at
+> the SRI Computer Science Laboratory.  He is the author of the book,
+> "Metamathematics, Machines, and Godel's Proof", published by Cambridge
+> University Press.  Dr. Shankar is the co-developer of a number of formal
+> analysis technologies including the PVS interactive proof assistant, the SAL
+> model checker, and the Yices SMT solver.  He is a co-recipient of the 2012 CAV
+> Award and the recipient of the 2022 Herbrand Award.
 
 ### 10:45 AM - Jeremy Avigad (CMU)
 
@@ -61,11 +87,17 @@ opportunities for applying formal methods and related techniques.
 > bother to verify a piece of software, the only reasonable answer is "because that's where the problems are."
 > In this talk, I will discuss some examples of mathematical and scientific software where verification matters
 > and where proof assistant technology can help ensure that the results are reliable.
+>
+
 
 
 #### 11:00 AM - Karthik Duraisamy (Michigan)
 
 > Title: Challenges and Opportunities in Rigorous End-to-end Verification and Validation for Scientific Computing.
+>
+> Abstract: This talk will begin with an introduction of the different sources of errors and uncertainties in complex scientific computing applications. The second part of the talk will touch upon some recent work in formal (and less formal) reasoning in end-to-end verification and validation (V&V) of predictive models. This will be followed by a brief discussion of future possibilities in automated reasoning for V&V.
+
+
 
 
 
@@ -84,7 +116,10 @@ opportunities for applying formal methods and related techniques.
 
 #### 11:45 AM - Vijay Ganesh (Georgia Tech)
 
-> Title/Abstract TBA.
+> Title: Automated Scientific Discovery via Solvers and Machine Learning
+> 
+> Abstract: We present some initial results in discovery of physics equations via a combination of SAT/SMT solvers and symbolic regression (SR). The key idea is a corrective feedback loop between an SR tool that takes as input data and outputs equations, and an SMT solver that checks the consistency of said equations against background knowledge and provides corrective feedback to the SR tool in terms of new data points. Using our method, we have managed to learn several equations from the Feynman book on physics.
+
 
 
 
