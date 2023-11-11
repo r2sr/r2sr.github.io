@@ -45,44 +45,46 @@ of doing scientific research in a rigorous and reproducible manner, identifying
 possible solutions both near term and longer term, and thinking about
 opportunities for applying formal methods and related techniques.
 
+
 ### 10:30 AM - Natarajan Shankar (SRI)
 
-Title/Abstract TBA.
-
-
+ > Title/Abstract: TBA. 
 
 ### 10:45 AM - Jeremy Avigad (CMU)
 
-Title: Where the money is
-Abstract: 
-
-As the story goes, when a reporter asked bank robber Willie Sutton was asked why
-he robbed banks, he replied, "because that's where the money is." Formal
-verification is difficult, and when faced with the question as to why we should
-bother to verify a piece of software, the only reasonable answer is "because
-that's where the problems are." In this talk, I will discuss some examples of
-mathematical and scientific software where verification matters and where proof
-assistant technology can help ensure that the results are reliable.
-
-
-### 11:00 AM - Karthik Duraisamy (Michigan)
-
-Title/Abstract TBA.
+> Title: Where the money is
+>
+> Abstract: 
+> As the story goes, when a reporter asked bank robber Willie Sutton was asked why
+> he robbed banks, he replied, "because that's where the money is." Formal 
+> verification is difficult, and when faced with the question as to why we should 
+> bother to verify a piece of software, the only reasonable answer is "because that's where the problems are."
+> In this talk, I will discuss some examples of mathematical and scientific software where verification matters
+> and where proof assistant technology can help ensure that the results are reliable.
 
 
-### 11:15 AM - Jean Peccoud (Colorado State University)
+#### 11:00 AM - Karthik Duraisamy (Michigan)
 
-Title/Abstract TBA
+> Title: Challenges and Opportunities in Rigorous End-to-end Verification and Validation for Scientific Computing.
 
-### 11:30 AM - Borzoo Bonakdarpour (Michigan State University)
 
-Title: Identifying Casual Structures by Automated Reasoning
- 
-Abstract: Scientific investigations have two purposes: (1) discovering previously unknown associations between a natural phenomenon (e.g., individuals infected with the Alzheimer’s disease (AD) often experience memory loss), and (2) generating precise mechanistic explanations for how the phenomena are causally related (e.g., a combination of genetic, lifestyle and environmental factors that affect the formation of amyloid beta and tau proteins in the brain tissue). Among these two purposes, explanation is the most critical to achieve global impact; identifying the major root-causes of natural phenomena not only enables scientists to predict their future outcomes, but also implies the means in which we prevent or mitigate such events. In this talk, I will describe a framework for formalizing the notion causality based on the definition of Actual Causality by Halpern and Pearl. I will also explain how decision procedures such as SMT solving are capable of extracting causal structures in different areas of natural and social sciences.
 
-### 11:45 AM - Vijay Ganesh (Georgia Tech)
+#### 11:15 AM - Jean Peccoud (Colorado State University)
 
-Title/Abstract TBA.
+> Title: What is a reproducible result? 
+> 
+> Abstract: A naïve understanding of reproducibility assumes that reproducible results are data with a variance of 0. Every experimental data has some experimental error and uncontrolled sources of variation. Therefore, reproducibility must be associated with a higher level of abstraction where different datasets lead to the same conclusions with a certain confidence level. In order to support this type of analysis, it is necessary to properly manage data before starting the data collection.
+
+
+#### 11:30 AM - Borzoo Bonakdarpour (Michigan State University)
+
+> Title: Identifying Casual Structures by Automated Reasoning
+>
+> Abstract: Scientific investigations have two purposes: (1) discovering previously unknown associations between a natural phenomenon (e.g., individuals infected with the Alzheimer’s disease (AD) often experience memory loss), and (2) generating precise mechanistic explanations for how the phenomena are causally related (e.g., a combination of genetic, lifestyle and environmental factors that affect the formation of amyloid beta and tau proteins in the brain tissue). Among these two purposes, explanation is the most critical to achieve global impact; identifying the major root-causes of natural phenomena not only enables scientists to predict their future outcomes, but also implies the means in which we prevent or mitigate such events. In this talk, I will describe a framework for formalizing the notion causality based on the definition of Actual Causality by Halpern and Pearl. I will also explain how decision procedures such as SMT solving are capable of extracting causal structures in different areas of natural and social sciences.
+
+#### 11:45 AM - Vijay Ganesh (Georgia Tech)
+
+> Title/Abstract TBA.
 
 
 
