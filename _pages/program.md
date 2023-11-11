@@ -117,6 +117,9 @@ We will have a detailed set of discussion topics to be discussed. For convenienc
     - How should publication process and journals  in your area respond to the challenges of reproducing scientific research?
       - What changes would be useful?
       - Are there journals that are making these changes? (point us to examples).
+  - **Further discussion topics**
+    - Promising approaches that are applicable to specific scientific areas.
+    
 
 ## Discussion Organization
 
